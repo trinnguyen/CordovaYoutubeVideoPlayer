@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ihadeed/CordovaYoutubeVideoPlayer.git"
+    "url": "https://github.com/trinnguyen/cordova-plugin-youtube-video-player"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ihadeed/CordovaYoutubeVideoPlayer/issues"
+    "url": "https://github.com/trinnguyen/cordova-plugin-youtube-video-player/issues"
   },
-  "homepage": "https://github.com/ihadeed/CordovaYoutubeVideoPlayer#readme"
+  "homepage": "https://github.com/trinnguyen/cordova-plugin-youtube-video-player#readme"
 }
